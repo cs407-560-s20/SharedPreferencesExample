@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Shared Preferences Example</string>
+
+    <string name="task">test1; test2 test3 </string>
+</resources>
